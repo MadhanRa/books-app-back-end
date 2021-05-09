@@ -13,6 +13,8 @@
     "rules": {
         "linebreak-style":"off",
         "no-console":"off",
-        "no-unused-vars":"warn"
+        "no-unused-vars":"warn",
+        "max-len":"off",
+        "quote-props":"warn"
     }
 }
